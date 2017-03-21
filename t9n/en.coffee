@@ -31,7 +31,7 @@ en =
   resetYourPassword: "Reset your password"
   setPassword: "Set Password"
   sign: "Sign"
-  signIn: "Sign In"
+  signIn: "Log In"
   signin: "sign in"
   signOut: "Sign Out"
   signUp: "Register"
@@ -53,6 +53,10 @@ en =
   enterUsername: "Enter username"
   enterUsernameOrEmail: "Enter username or email"
   orUse: "Or use"
+  socialSignUp: "Easily with Facebook"
+  socialSignIn: "Log in with Facebook"
+  signUpLink: 'Sign up'
+  signInLink: 'Log in'
 
   info:
     emailSent: "Email sent"
