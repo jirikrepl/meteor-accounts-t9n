@@ -42,7 +42,8 @@ usernameOrEmail: "Uživatelské jméno nebo email"
 with: "s"
 socialSignUp: "Jednoduše přes Facebook"
 socialSignIn: "Přihlásit se přes Facebook"
-signUpLink: 'Jednoduše vytvořit'
+signUpLink: 'Jednoduše si ho vytvoř'
+signInLink: 'Přihlaš se'
 name: 'Jméno'
 "Required Field": "Povinný údaj"
 "Minimum required length: 6": "Minimální délka hesla: 6 znaků"
