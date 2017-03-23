@@ -12,14 +12,14 @@ en =
   choosePassword: "Choose a Password"
   clickAgree: "By clicking Register, you agree to our"
   configure: "Configure"
-  createAccount: "Create an Account"
+  createAccount: "Create Account"
   currentPassword: "Current Password"
   dontHaveAnAccount: "Don't have an account?"
   email: "Email"
   emailAddress: "Email Address"
   emailResetLink: "Email Reset Link"
   forgotPassword: "Forgot your password?"
-  ifYouAlreadyHaveAnAccount: "If you already have an account"
+  ifYouAlreadyHaveAnAccount: "If you already have an account."
   newPassword: "New Password"
   newPasswordAgain: "New Password (again)"
   optional: "Optional"
@@ -53,10 +53,10 @@ en =
   enterUsername: "Enter username"
   enterUsernameOrEmail: "Enter username or email"
   orUse: "Or use"
-  socialSignUp: "Easily with Facebook"
-  socialSignIn: "Log in with Facebook"
-  signUpLink: 'Sign up'
-  signInLink: 'Log in'
+  socialSignUp: "Join with Facebook"
+  socialSignIn: "Log In with Facebook"
+  signUpLink: 'Sign Up'
+  signInLink: 'Log In'
 
   info:
     emailSent: "Email sent"
