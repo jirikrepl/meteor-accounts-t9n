@@ -53,6 +53,8 @@ en =
   enterUsername: "Enter username"
   enterUsernameOrEmail: "Enter username or email"
   orUse: "Or use"
+  name: "Your name"
+  nameAllowedChars: "Name can contain only lowercase and uppercase letters"
   socialSignUp: "Join with Facebook"
   socialSignIn: "Log In with Facebook"
   signUpLink: 'Sign Up'

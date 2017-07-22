@@ -45,6 +45,7 @@ socialSignIn: "Přihlásit se přes Facebook"
 signUpLink: 'Jednoduše si ho vytvoř'
 signInLink: 'Přihlaš se'
 name: 'Jméno'
+nameAllowedChars: "Jméno může obsahovat pouze malá a velká písmena"
 "Required Field": "Povinný údaj"
 "Minimum required length: 6": "Minimální délka hesla: 6 znaků"
 "Invalid email": "Neplatný email"

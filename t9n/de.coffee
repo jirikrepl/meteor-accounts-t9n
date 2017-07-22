@@ -5,10 +5,6 @@ de =
 
   t9Name: 'Deutsch'
 
-  name: "Dein Name"
-  "Required Field": "obligatorisch"
-  "Minimum required length: 6": "Minimale erforderliche Länge: 6 Zeichen"
-  "Invalid email": "Ungültige E-Mail-Adresse"
   add: "hinzufügen"
   and: "und"
   back: "zurück"
@@ -55,6 +51,12 @@ de =
   socialSignIn: "Mit Facebook fortfahren"
   signUpLink: 'Teilnehmen'
   signInLink: 'Anmelden'
+  name: "Dein Name"
+  nameAllowedChars: "Jméno může obsahovat pouze malá a velká písmena"
+  "Required Field": "obligatorisch"
+  "Minimum required length: 6": "Minimale erforderliche Länge: 6 Zeichen"
+  "Invalid email": "Ungültige E-Mail-Adresse"
+
 
   info:
     emailSent: "E-Mail gesendet"
