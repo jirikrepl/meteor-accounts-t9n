@@ -5,6 +5,10 @@ de =
 
   t9Name: 'Deutsch'
 
+  name: "Dein Name"
+  "Required Field": "obligatorisch"
+  "Minimum required length: 6": "Minimale erforderliche Länge: 6 Zeichen"
+  "Invalid email": "Ungültige E-Mail-Adresse"
   add: "hinzufügen"
   and: "und"
   back: "zurück"
@@ -19,7 +23,7 @@ de =
   emailAddress: "E-Mail Adresse"
   emailResetLink: "Senden"
   forgotPassword: "Passwort vergessen?"
-  ifYouAlreadyHaveAnAccount: "Falls bereits ein Konto existiert, bitte hier"
+  ifYouAlreadyHaveAnAccount: "Haben Sie schon ein Konto?"
   newPassword: "Neues Passwort"
   newPasswordAgain: "Neues Passwort (wiederholen)"
   optional: "Optional"
@@ -47,6 +51,10 @@ de =
   "Send the verification email again" : "Verifizierungsemail erneut senden"
   "Send email again" : "Email erneut senden"
   "A new email has been sent to you. If the email doesn't show up in your inbox, be sure to check your spam folder." : "Eine neue Email wurde verschickt. Sollte sich die Email nicht im Posteingang befinden, empfiehlt es sich, den Spamordner zu überprüfen."
+  socialSignUp: "Über Facebook beitreten"
+  socialSignIn: "Mit Facebook fortfahren"
+  signUpLink: 'Teilnehmen'
+  signInLink: 'Anmelden'
 
   info:
     emailSent: "E-Mail gesendet"
