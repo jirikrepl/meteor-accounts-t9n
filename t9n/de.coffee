@@ -52,7 +52,7 @@ de =
   signUpLink: 'Teilnehmen'
   signInLink: 'Anmelden'
   name: "Dein Name"
-  nameAllowedChars: "Jméno může obsahovat pouze malá a velká písmena"
+  nameAllowedChars: "Der Name darf nur Klein- und Großbuchstaben enthalten"
   "Required Field": "obligatorisch"
   "Minimum required length: 6": "Minimale erforderliche Länge: 6 Zeichen"
   "Invalid email": "Ungültige E-Mail-Adresse"
