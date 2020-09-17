@@ -13,9 +13,9 @@ configure: "Nastavit"
 createAccount: "Vytvořit účet"
 currentPassword: "Současné heslo"
 dontHaveAnAccount: "Nemáte účet?"
-email: "Email"
-emailAddress: "Emailová adresa"
-emailResetLink: "Odkaz na reset emailu"
+email: "E-mail"
+emailAddress: "E-mailová adresa"
+emailResetLink: "Odkaz na reset e-mailu"
 forgotPassword: "Zapomenuté heslo?"
 dontHaveAnAccount: 'Nemáš účet?'
 ifYouAlreadyHaveAnAccount: "Už účet máš?"
@@ -34,7 +34,7 @@ signIn: "Přihlásit se"
 signOut: "Odhlásit se"
 signUp: "Registrovat"
 signupCode: "Registrační kód"
-signUpWithYourEmailAddress: "Registrovat se emailovou adresou"
+signUpWithYourEmailAddress: "Registrovat se e-mailovou adresou"
 terms: "obchodními podmínkami"
 updateYourPassword: "Aktualizovat heslo"
 username: "Uživatelské jméno"
@@ -52,15 +52,15 @@ nameAllowedChars: "Jméno může obsahovat pouze malá a velká písmena"
 
 
 info:
-  emailSent: "Email odeslán"
-  emailVerified: "Email ověřen"
+  emailSent: "E-mail odeslán"
+  emailVerified: "E-mail ověřen"
   passwordChanged: "Heslo změněno"
   passwordReset: "Heslo resetováno"
 
 
 error:
   emailRequired: "Email je povinný."
-  minChar: "minimální délka hesla je 7 znaků."
+  minChar: "Minimální délka hesla je 7 znaků."
   pwdsDontMatch: "Hesla nesouhlasí"
   pwOneDigit: "Heslo musí obsahovat alespoň jednu číslici."
   pwOneLetter: "Heslo musí obsahovat alespoň 1 slovo."
@@ -83,7 +83,7 @@ error:
     "Unrecognized options for login request":"Nerozpoznaná volba přihlašovacího požadavku"
     "User validation failed": "Validace uživatele selhala"
     "Username already exists.": "Uživatelské jméno již existuje."
-    "You are not logged in.":"Nejste přihlášený."
+    "You are not logged in.":"Nejste přihlášeni."
     "You've been logged out by the server. Please log in again.": "Byl jste odhlášen. Prosím přihlašte se znovu."
     "Your session has expired. Please log in again.": "Vaše připojení vypršelo. Prosím přihlašte se znovu."
 
@@ -98,18 +98,18 @@ error:
 
     #---- accounts-password
     "Incorrect password": "Chybné heslo"
-    "Invalid email":"Neplatný email"
+    "Invalid email":"Neplatný e-mail"
     "Must be logged in": "Pro vstup na tuto stránku se musíš přihlásit"
     "Need to set a username or email": "Je třeba zadat uživatelské jméno nebo email"
-    "old password format":"starý formát hesla"
+    "old password format":"Starý formát hesla"
     "Password may not be empty":"Heslo nemůže být prázdné"
     "Signups forbidden": "Registrace je zakázaná"
     "Token expired": "Token vypršel"
-    "Token has invalid email address": "Token má neplatnou emailovou adresu"
+    "Token has invalid email address": "Token má neplatnou e-mailovou adresu"
     "User has no password set": "Uživatel nemá nastavené heslo"
     "User not found": "Uživatel nenalezen"
-    "Verify email link expired": "Odkaz pro ověření emailu vypršel"
-    "Verify email link is for unknown address": "Odkaz pro ověření emailu má neznámou adresu"
+    "Verify email link expired": "Odkaz pro ověření e-mailu vypršel"
+    "Verify email link is for unknown address": "Odkaz pro ověření e-mailu má neznámou adresu"
 
     #---- match
     "Match failed":"Nesouhlasí"
