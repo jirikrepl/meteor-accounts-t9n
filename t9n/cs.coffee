@@ -17,7 +17,6 @@ email: "E-mail"
 emailAddress: "E-mailová adresa"
 emailResetLink: "Odkaz na reset e-mailu"
 forgotPassword: "Zapomenuté heslo?"
-dontHaveAnAccount: 'Nemáš účet?'
 ifYouAlreadyHaveAnAccount: "Už účet máš?"
 newPassword: "Nové heslo"
 newPasswordAgain: "Nové heslo (zopakovat)"
