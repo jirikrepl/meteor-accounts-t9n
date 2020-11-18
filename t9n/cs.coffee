@@ -40,7 +40,7 @@ username: "Uživatelské jméno"
 usernameOrEmail: "Uživatelské jméno nebo email"
 with: "s"
 socialSignUp: "Jednoduše přes Facebook"
-socialSignIn: "Přihlásit se přes Facebook"
+socialSignIn: "Přes Facebook"
 signUpLink: 'Jednoduše si ho vytvoř'
 signInLink: 'Přihlaš se'
 name: 'Jméno'
