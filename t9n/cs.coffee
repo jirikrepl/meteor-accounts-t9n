@@ -8,11 +8,11 @@ and: "a"
 back: "zpět"
 changePassword: "Změnte heslo"
 choosePassword: "Zvolte heslo"
-clickAgree: "Kliknutím na Vytvořit účet souhlasím s"
+clickAgree: "Vytvořením účtu souhlasím s"
 configure: "Nastavit"
 createAccount: "Vytvořit účet"
 currentPassword: "Současné heslo"
-dontHaveAnAccount: "Nemáte účet?"
+dontHaveAnAccount: "Ještě nemáš účet?"
 email: "E-mail"
 emailAddress: "E-mailová adresa"
 emailResetLink: "Odkaz na reset e-mailu"
@@ -39,10 +39,10 @@ updateYourPassword: "Aktualizovat heslo"
 username: "Uživatelské jméno"
 usernameOrEmail: "Uživatelské jméno nebo email"
 with: "s"
-socialSignUp: "Jednoduše přes Facebook"
+socialSignUp: "Přes Facebook"
 socialSignIn: "Přes Facebook"
-signUpLink: 'Jednoduše si ho vytvoř'
-signInLink: 'Přihlaš se'
+signUpLink: 'Vytvořit účet'
+signInLink: 'Přihlásit se'
 name: 'Jméno'
 nameAllowedChars: "Jméno může obsahovat pouze malá a velká písmena"
 "Required Field": "Povinný údaj"
