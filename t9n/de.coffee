@@ -17,7 +17,7 @@ de =
   dontHaveAnAccount: "Noch kein Konto?"
   email: "E-Mail"
   emailAddress: "E-Mail Adresse"
-  emailResetLink: "Senden"
+  emailResetLink: "Anweisungen senden"
   forgotPassword: "Passwort vergessen?"
   ifYouAlreadyHaveAnAccount: "Haben Sie schon ein Konto?"
   newPassword: "Neues Passwort"
