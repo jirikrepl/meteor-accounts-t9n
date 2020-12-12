@@ -18,6 +18,7 @@ de =
   email: "E-Mail"
   emailAddress: "E-Mail Adresse"
   emailResetLink: "Anweisungen senden"
+  emailResetText: "Geben Sie Ihre E-Mail-Adresse ein und wir senden Ihnen Anweisungen zum Zurücksetzen Ihres Passworts"
   forgotPassword: "Passwort vergessen?"
   ifYouAlreadyHaveAnAccount: "Haben Sie schon ein Konto?"
   newPassword: "Neues Passwort"

@@ -18,6 +18,7 @@ en =
   email: "Email"
   emailAddress: "Email Address"
   emailResetLink: "Send Instructions"
+  emailResetText: "Enter your email, and we’ll send you instructions on how to reset your password"
   forgotPassword: "Forgot your password?"
   ifYouAlreadyHaveAnAccount: "If you already have an account."
   newPassword: "New Password"
