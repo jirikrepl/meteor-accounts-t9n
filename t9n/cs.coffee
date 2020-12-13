@@ -15,7 +15,8 @@ currentPassword: "Současné heslo"
 dontHaveAnAccount: "Ještě nemáš účet?"
 email: "E-mail"
 emailAddress: "E-mailová adresa"
-emailResetLink: "Odkaz na reset e-mailu"
+emailResetLink: "Poslat instrukce"
+emailResetText: "Vlož svůj e-mail, na který ti pošleme instrukce, jak resetovat heslo"
 forgotPassword: "Zapomenuté heslo?"
 ifYouAlreadyHaveAnAccount: "Už účet máš?"
 newPassword: "Nové heslo"
@@ -37,7 +38,7 @@ signUpWithYourEmailAddress: "Registrovat se e-mailovou adresou"
 terms: "obchodními podmínkami"
 updateYourPassword: "Aktualizovat heslo"
 username: "Uživatelské jméno"
-usernameOrEmail: "Uživatelské jméno nebo email"
+usernameOrEmail: "Uživatelské jméno nebo e-mail"
 with: "s"
 socialSignUp: "Přes Facebook"
 socialSignIn: "Přes Facebook"
@@ -47,7 +48,7 @@ name: 'Jméno'
 nameAllowedChars: "Jméno může obsahovat pouze malá a velká písmena"
 "Required Field": "Povinný údaj"
 "Minimum required length: 6": "Minimální délka hesla: 6 znaků"
-"Invalid email": "Neplatný email"
+"Invalid email": "Neplatný e-mail"
 
 
 info:
@@ -58,7 +59,7 @@ info:
 
 
 error:
-  emailRequired: "Email je povinný."
+  emailRequired: "E-mail je povinný."
   minChar: "Minimální délka hesla je 7 znaků."
   pwdsDontMatch: "Hesla nesouhlasí"
   pwOneDigit: "Heslo musí obsahovat alespoň jednu číslici."
@@ -66,15 +67,15 @@ error:
   signInRequired: "Musíte být příhlášeni."
   signupCodeIncorrect: "Registrační kód je chybný."
   signupCodeRequired: "Registrační kód je povinný."
-  usernameIsEmail: "Uživatelské jméno nemůže být emailová adresa."
+  usernameIsEmail: "Uživatelské jméno nemůže být e-mailová adresa."
   usernameRequired: "Uživatelské jméno je povinné."
   accounts:
 
     #---- accounts-base
     #"@" + domain + " email required":
     "A login handler should return a result or undefined":"Přihlašovací rutina musí vracet výsledek nebo undefined"
-    "Email already exists.": "Email již existuje."
-    "Email doesn't match the criteria.": "Email nesplňuje požadavky."
+    "Email already exists.": "E-mail již existuje."
+    "Email doesn't match the criteria.": "E-mail nesplňuje požadavky."
     "Invalid login token":"Neplatný přihlašovací token"
     "Login forbidden":"Špatné přihlašovací údaje"
     #"Service " + options.service + " already configured":
@@ -99,7 +100,7 @@ error:
     "Incorrect password": "Chybné heslo"
     "Invalid email":"Neplatný e-mail"
     "Must be logged in": "Pro vstup na tuto stránku se musíš přihlásit"
-    "Need to set a username or email": "Je třeba zadat uživatelské jméno nebo email"
+    "Need to set a username or email": "Je třeba zadat uživatelské jméno nebo e-mail"
     "old password format":"Starý formát hesla"
     "Password may not be empty":"Heslo nemůže být prázdné"
     "Signups forbidden": "Registrace je zakázaná"
